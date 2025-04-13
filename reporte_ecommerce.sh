@@ -5,8 +5,8 @@
 # ----------------------------------------------
 
 # Variables globales
-ARCHIVO_DATOS="ventas.csv"
-REPORTE="reporte_diario.txt"
+ARCHIVO_DATOS="/workspaces/ProyectoFinal/ventas.csv"
+REPORTE="/workspaces/ProyectoFinal/reporte_diario.txt"
 
 # Función para generar el TOP 10 de productos más vendidos
 generar_top_productos() {
