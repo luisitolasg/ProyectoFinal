@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables necesarias
-export Key='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'
+export Key=''
 FROM="luisito.ds1jc@gmail.com"
 TO="luisito.ds1jc@gmail.com"
 SUBJECT="Reporte economico de ventas efectuados diariamente [Proyecto Final]"
